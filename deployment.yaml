@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nodejs1
-        image: neehar2601/nodejsweb2:v1
+        image: sufiyataranum/simplenodejs:v1
         ports:
         - containerPort: 80
